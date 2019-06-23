@@ -8,9 +8,9 @@
 #include<queue>
 #include<iterator>
 using namespace std;
-#define MAX   10
+#define MAX 10
 int maze[9][9] =
-{ { 1,1,1,1,1,1,1,1,1 },
+{ { 1,1,1,1,1,1,1,1,0},
 { 1,0,0,1,0,0,1,0,1 },
 { 1,0,0,1,1,0,0,0,1 },
 { 1,0,1,0,1,1,0,1,1 },
