@@ -1,26 +1,7 @@
-ÊµÑéÆ÷²Ä:
-	MiniSTM32F103¿ª·¢°åV3°æ±¾
+å®žéªŒå™¨æ:
+	MiniSTM32F103C8T6
 	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°GPIO×÷ÎªÊä³öµÄÊ¹ÓÃ
+å®žéªŒç›®çš„:
+	å­¦ä¹ æ— çº¿ä¸²å£çš„ä½¿ç”¨	
+
 	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPA8) 
-	2,DS1(Á¬½ÓÔÚPD2)
-	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑéÍ¨¹ý´úÂë¿ØÖÆ¿ª·¢°åÉÏµÄÁ½¸öLED£ºDS0ºÍDS1½»ÌæÉÁË¸£¬ÊµÏÖÀàËÆÅÜÂíµÆµÄÐ§¹û¡£ 
-	
-×¢ÒâÊÂÏî:
-	ÎÞ.
-	 
-	 
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-3-05
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
